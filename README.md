@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://yangyuankun865.github.io/">Yuankun Yang</a><sup>1</sup>,
+  <a href="https://github.com/yangyuankun865">Yuankun Yang</a><sup>1</sup>,
   Yi Wei<sup>2</sup>,
   Bo Bai<sup>2</sup>,
   Wenyang Zhou<sup>2</sup>,
